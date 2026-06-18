@@ -1,3 +1,10 @@
+## About
+
+This repository documents my AWS Cloud learning journey as I build hands-on projects using Amazon Web Services.
+
+Current Projects:
+- Project 1: Amazon S3 Static Website Hosting
+
 # AWS Cloud Portfolio
 
 ## Project 1 - Amazon S3 Static Website Hosting
