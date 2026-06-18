@@ -19,3 +19,17 @@ Created and hosted a static website using Amazon S3.
 
 ### Outcome
 Successfully deployed a website using Amazon S3 Static Website Hosting.
+
+## Screenshots
+
+### S3 Bucket Overview
+
+![S3 Bucket Overview](S3%20Bucket%20Overview.png)
+
+### Static Website Hosting
+
+![Static Website Hosting](Static%20Website%20Hosting.png)
+
+### Live Website
+
+![Live Website](Live%20Website.png)
