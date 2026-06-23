@@ -35,8 +35,24 @@ Successfully deployed a website using Amazon S3 Static Website Hosting.
 
 ### Static Website Hosting
 
-![Static Website Hosting](Static%20Website%20Hosting.png)
+![Static Website Hosting](Static-Website-Hosting.png)
 
 ### Live Website
 
 ![Live Website](Live%20Website.png)
+
+### EC2 Dashboard
+
+![EC2 Dashboard](Instance-Dashboard.png)
+
+### Security Group Rules
+
+![Security Group Rules](Security-Group-Rules.png)
+
+### Apache Running
+
+![Apache Running](Status.png)
+
+### Website Deployment
+
+![Website Deployment](Webpage.png)
